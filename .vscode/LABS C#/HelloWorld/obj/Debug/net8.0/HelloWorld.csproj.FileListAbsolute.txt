@@ -1,0 +1,15 @@
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\cruiz6496\OneDrive - Inter American University of Puerto Rico\SEMESTRE-2\COMP-2315\.vscode\LABS C#\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
