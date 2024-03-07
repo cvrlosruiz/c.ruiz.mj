@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cruiz6496\\OneDrive - Inter American University of Puerto Rico\\SEMESTRE-2\\COMP-2315\\LABS C#\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\cruiz6496\\OneDrive - Inter American University of Puerto Rico\\SEMESTRE-2\\COMP-2315\\LABS C#\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\cruiz6496\\OneDrive - Inter American University of Puerto Rico\\SEMESTRE-2\\COMP-2315\\LABS C#\\ejemplo\\ejemplo.csproj",
+      "projectName": "ejemplo",
+      "projectPath": "C:\\Users\\cruiz6496\\OneDrive - Inter American University of Puerto Rico\\SEMESTRE-2\\COMP-2315\\LABS C#\\ejemplo\\ejemplo.csproj",
       "packagesPath": "C:\\Users\\cruiz6496\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cruiz6496\\OneDrive - Inter American University of Puerto Rico\\SEMESTRE-2\\COMP-2315\\LABS C#\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\cruiz6496\\OneDrive - Inter American University of Puerto Rico\\SEMESTRE-2\\COMP-2315\\LABS C#\\ejemplo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cruiz6496\\AppData\\Roaming\\NuGet\\NuGet.Config"
