@@ -23,7 +23,5 @@ int main()
 
     cout<<"Mi promedio es:" <<promedio << endl;
 
-
-
     return 0;
 }
