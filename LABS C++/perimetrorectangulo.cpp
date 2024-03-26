@@ -13,8 +13,11 @@ cin >> altura;
 
 double perimetro = 2 * altura + 2 * base;
 
-cout << "El perimetro de su rectangulo es: "<< perimetro<<endl;
+double area = base * altura;
 
+cout << "El perimetro de su rectangulo es: "<< perimetro;
+
+cout << "El area de su rectangulo es: "<< area<<endl;
 
     return 0;
 

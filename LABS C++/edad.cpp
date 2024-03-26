@@ -5,7 +5,7 @@ int main(){
     
 double anonacimiento, anoactual;
 
-cout << "Ingrese el añn en el que nacio:";
+cout << "Ingrese el ano en el que nacio:";
 cin >> anonacimiento;
 
 
