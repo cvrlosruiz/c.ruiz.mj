@@ -12,8 +12,12 @@ public class simple {
     // se determina si puede o no puede realizar prestamos
         if (estadoTarjeta.equalsIgnoreCase("activa")) {
           System.out.println("Puedes realizar prestamos.");
+
       }  if (estadoTarjeta.equalsIgnoreCase("no activa")) {
           System.out.println("Los prestamos no etan permitidos");
+      
       }
+      
+      scanner.close();
   } 
 }
